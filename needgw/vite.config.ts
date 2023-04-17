@@ -8,7 +8,7 @@
  *
  * Copyright (c) 2022 by 公卫区位大数据前端组, All Rights Reserved.
  */
-import { fileURLToPath, URL } from "url";
+import { fileURLToPath, URL } from "node:url";
 
 import { defineConfig } from "vite";
 import vue from "@vitejs/plugin-vue";
